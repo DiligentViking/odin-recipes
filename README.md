@@ -1,0 +1,1 @@
+First Odin Project project to practice very basic Git/Github, VScode, and HTML skills, combining them together into a workflow.
